@@ -1,0 +1,42 @@
+body {
+    margin:0%;
+    padding: 0%;
+    background-image: url('nieuwebackground.png'); 
+    background-size:100% 100%; 
+    background-repeat: no-repeat; 
+    background-attachment: fixed;
+  }
+
+  .titel{
+  
+    width: 100% ;
+    position: absolute;
+    top: 5%;
+    text-align: center;
+    color: yellowgreen;
+    font-size:x-large;
+    text-decoration:none;
+  }
+  
+  .instagram{ 
+    color:yellowgreen;
+    position: absolute;
+    top: 40%;
+    left: 30%; 
+      
+  }
+
+  .logo1{ 
+    width: 100px;
+  }
+
+  .twitter{ 
+    color:yellowgreen;
+    position: absolute;
+    top: 40%;
+    left: 60%; 
+      
+  }
+
+
+
