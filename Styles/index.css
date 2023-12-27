@@ -44,6 +44,6 @@ body {
 
   @font-face {
     font-family: 'Schwifty'; 
-    src: url('get_schwifty.ttf') format('truetype'), 
+    src: url('../font/get_schwifty.ttf') format('truetype'), 
   }
   
